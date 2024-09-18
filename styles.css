@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.main-container{
+	padding:20px;
+	background-color:#f8fffe;
+}
+div>div{
+	padding:5px;
+	border:1px solid black;
+	background-color:white;
+	margin-top:15px;
+}
+div>p:nth-child(2){
+	text-align:right;
+	font-style:italic;
+	font-weight:bold;
+}
